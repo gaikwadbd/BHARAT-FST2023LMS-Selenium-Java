@@ -1,0 +1,1 @@
+{"uuid":"ae0ec739-0aff-45b0-8b0c-3a12dfcddd30","name":"LMSproject.Activity7.OpenURL","children":["a292b577-1cf8-44c5-b7dd-d4ce31220b62"],"description":"","befores":[{"name":"OpenURL","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1687080603066,"stop":1687080606780}],"afters":[],"start":1687080603066,"stop":1687080606780}

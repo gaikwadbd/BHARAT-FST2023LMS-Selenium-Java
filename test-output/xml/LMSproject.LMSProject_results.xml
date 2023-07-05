@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LMS"
+           tests="10"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="8.690">
+  <properties />
+  
+  
+            <testcase name="verifyFirstInforboxTiltle" time="0.044" classname="LMSproject.LMSProject" />
+                <testcase name="courseTitle" time="1.173" classname="LMSproject.LMSProject" />
+                <testcase name="verifyHeading" time="0.055" classname="LMSproject.LMSProject" />
+                <testcase name="allCoursesCount" time="0.470" classname="LMSproject.LMSProject" />
+                <testcase name="verifySecondPopularCourseTiltle" time="0.040" classname="LMSproject.LMSProject" />
+                <testcase name="verifyTitle" time="0.031" classname="LMSproject.LMSProject" />
+                <testcase name="verifyMyAccountPage" time="0.499" classname="LMSproject.LMSProject" />
+                <testcase name="contactUs" time="1.256" classname="LMSproject.LMSProject" />
+                <testcase name="Login" time="1.587" classname="LMSproject.LMSProject" />
+                <testcase name="completeTrainingAndMarkComplete" time="3.535" classname="LMSproject.LMSProject" />
+      
+</testsuite>
